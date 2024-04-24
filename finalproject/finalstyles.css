@@ -1,0 +1,46 @@
+body{
+    background-color: rgb(254, 236, 170);
+    color: black;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+h1{
+    text-align: center;
+    
+}
+h3{
+    text-align: center;
+}
+.underline{
+    text-decoration: underline;
+}
+.imgcenter{
+    display: block;
+    margin: auto;
+}
+.list{
+    border: 2px black solid;
+    padding: 2px;
+    
+}
+.threats{
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    margin: 5px;
+    padding: 5px;
+    border: 2px black solid;
+    color:rgb(254, 236, 170);
+    background-color:sienna;
+}
+.enjoy{
+    font-family: "Comic Sans MS";
+    
+}
+.bottom{
+    position: fixed;
+    bottom: 0px;
+    left: 0px;
+    right: 0px;
+    text-align: center;
+    border: 2px black solid;
+    background-color: rgb(254, 236, 170);
+    
+}
